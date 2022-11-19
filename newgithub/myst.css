@@ -1,0 +1,91 @@
+body{
+	margin: 0px;
+	text-align: center;
+	font-family: 'Merriweather',serif;
+}
+
+h1{
+	margin-top: 50px auto 0 auto;
+	font-size: 5.625rem;
+	font-family: 'Sacramento',cursive;
+}
+
+h2{
+	font-family: 'Montserrat',sans-serif;
+	font-size: 2.5rem;
+
+}
+h3{
+	font-family: 'Montserrat',sans-serif;
+}
+#id123{
+	border-radius: ;
+	width: 100px;
+	height: 100px;
+}
+#id112{
+
+	        background-color: yellow;
+			border-style: none;
+			height: 5px;
+			width: 100px;
+}
+#id1121{
+
+	        background-color: darkorange;
+			border-style: none;
+			height: 5px;
+			width: 100px;
+}
+#id1122{
+
+	        background-color:green;
+			border-style: none;
+			height: 5px;
+			width: 100px;
+}
+
+.top-container{
+	background-color:lightcyan;
+	position: relative;
+	padding-top: 100px;
+	
+}
+#id1{
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+}
+.ip12{
+	width: 200px;
+	height: 200px;
+}
+.giphy-embed{
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+}
+
+.middle-container{
+}
+.bottom-container{
+}
+.pro{
+	text-decoration: underline;
+	color: orange;
+	font-weight: bold;
+}
+.top-cloud{
+	position: absolute;
+	right: 300px;
+	top: 50px;
+	width: 100px;
+	
+}
+.bottom-cloud{
+	position: absolute;
+	left: 300px;
+	bottom: 150px;
+	width: 100px;
+	
+}
